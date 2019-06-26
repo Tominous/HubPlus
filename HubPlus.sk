@@ -19,7 +19,7 @@ options:
   titleLength: 3 # How long it will appear in seconds
 
   # Inventory Items
-  serverInfo: &aServer Info &7(Right Click)
+  serverInfo: &aServer Information &7(Right Click)
   serverSelector: &aServer Selector &7(Right Click)
   hidePlayers: &aHide/Show Players &7(Right Click)
   pvpMode: &aPVP Mode &7(Right Click)
